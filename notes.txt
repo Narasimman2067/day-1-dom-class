@@ -1,0 +1,7 @@
+css- head(colors,fonts,styles and properties)
+html- content(css will applied)
+js - functionalities run again
+
+DOM manupulation
+inner text
+inner html
