@@ -39,7 +39,7 @@ console.log(window);
         console.log("hey i'm the function");
        
     }
-    setTimeout(newSecons,50);
+    setTimeout(newSecons,5000);
 
     
         
