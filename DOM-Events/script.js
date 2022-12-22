@@ -37,6 +37,7 @@ console.log(window);
 
     function newSecons(){
         console.log("hey i'm the function");
+        // alert(" hey i'm the function")
        
     }
     setTimeout(newSecons,5000);
